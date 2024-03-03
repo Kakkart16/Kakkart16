@@ -5,7 +5,7 @@
 ```
     const tushar = {
         pronouns: "he" | "him",
-        languages: [Python, C, C++, SQl, JavaScript],
+        languages: [Python, C, C++, SQL, JavaScript],
         frameworks: [Django, Flask, FastAPI, Bootstrap],
         tools: [VS Code, git, linux, Docker, Postman, Android Studio, MySQL, Figma],
 
