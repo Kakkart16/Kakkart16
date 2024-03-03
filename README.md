@@ -1,6 +1,6 @@
-### Hi there 👋, I am Tushar Kakkar, and I do Backend Development and Competitive Programming.
+## Hi there 👋, I am Tushar Kakkar, and I do Backend Development and Competitive Programming.
 
-## A little more about me.
+### A little more about me.
 
 ```
     const tushar = {
@@ -22,4 +22,4 @@
 <a href="https://auth.geeksforgeeks.org/user/kakkart16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kakkart16" height="30" width="40" /></a>
 </p>
 
-# Don't forget to hit the ⭐ if you like this repo.
+### Don't forget to hit the ⭐ if you like this repo.
