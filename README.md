@@ -6,10 +6,8 @@
     const tushar = {
         pronouns: "he" | "him",
         languages: [Python, C, C++, SQL, JavaScript],
-        frameworks: [Django, Flask, FastAPI, Bootstrap],
+        frameworks: [Django, Flask, Bootstrap],
         tools: [VS Code, git, linux, Docker, Postman, Android Studio, MySQL, Figma],
-
-        challenge: "To reach the top 1% mark in my skill set."
     }
 ```
 
