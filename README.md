@@ -1,12 +1,12 @@
-## Hi there 👋, I am Tushar Kakkar, and I do Backend Development and Competitive Programming.
+## Hi there 👋🏻, I am Tushar Kakkar, and I do Backend Development and Competitive Programming.
 
 ### A little more about me.
 
 ```
     const tushar = {
         pronouns: "he" | "him",
-        languages: [Python, C, C++, SQL, JavaScript],
-        frameworks: [Django, Flask, Bootstrap],
+        languages: [C, C++, Python, JavaScript, SQL],
+        frameworks: [Django, Flask, Tailwind, Bootstrap],
         tools: [VS Code, git, linux, Docker, Postman, Android Studio, MySQL, Figma],
     }
 ```
