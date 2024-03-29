@@ -1,4 +1,4 @@
-## Hi there 👋🏻, I am Tushar Kakkar, and I do Backend Development and Competitive Programming.
+## Hi there 👋🏻, I am Tushar Kakkar, and I am a Software Developer with a knack for Competitive Programming.
 
 ### A little more about me.
 
