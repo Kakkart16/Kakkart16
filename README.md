@@ -7,7 +7,7 @@
         pronouns: "he" | "him",
         languages: [C, C++, Python, JavaScript, SQL],
         frameworks: [Django, Flask, Tailwind, Bootstrap],
-        tools: [VS Code, git, linux, Docker, Postman, Android Studio, MySQL, Figma],
+        tools: [Git, Linux, AWS, Docker, MySQL, Postman, Android Studio, Figma],
     }
 ```
 
